@@ -1,5 +1,5 @@
 import { Request, Response, response } from 'express';
-import knex from '../database/conection';
+import knex from '../database/connection';
 
 class PointsController {
 
