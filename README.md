@@ -1,1 +1,3 @@
 # Ecoleta
+
+![Screenshot](logo.jpg)
